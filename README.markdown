@@ -6,7 +6,7 @@ This is a repository containing source code for the examples as I work through t
 
 This is a simple view assignment adding a label and an image.
 
-## Assignment 1A
+## Assignment 1B
 
 Getting to know Objective-C with a simple command line tool outputting information to the console.
 
